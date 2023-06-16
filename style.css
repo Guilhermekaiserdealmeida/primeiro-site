@@ -1,0 +1,97 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+
+
+.logo{
+   margin-left: 100px;
+}
+
+.botao{
+border: 3px solid;
+border-color: rgb(0, 0, 0);
+background-color: rgb(236, 252, 175);
+border-radius: 10px;
+float:right;
+size: 4px;
+margin-top: 60px;
+font-size: 35px;
+padding: 1px;
+font-family: HCo Gotham SSm,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+margin-right: 20px;
+box-shadow: 5px 5px rgb(44, 44, 44);
+}
+a{
+   text-decoration: none;
+   color:rgba(61, 11, 11, 0.815);
+}
+
+hr{
+   border-color:rgb(112, 69, 56);
+   border-width: 3px;
+   border-style: solid;
+   border-radius: 1px;
+
+}
+
+
+
+
+.imagen{
+   width: 400px;
+   height: 400px;
+   justify-content: center;
+   padding: 6px;
+}
+.imagen1 {
+   width: 400px;
+   height: 400px;
+}
+
+.fotos{
+   border: 3px solid;
+   border-bottom: 0px;
+   border-color: rgb(112, 69, 56);
+   margin-left: 125px;
+   margin-top: 45px;
+   border-radius: 10px;
+   background-color: rgb(112, 69, 56);
+   box-shadow: 5px 5px rgba(44, 44, 44, 0.473);
+}
+
+body{
+   background-color: rgba(122, 66, 29, 0.432);
+}
+
+.texto{
+   font-family: HCo Gotham SSm,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+}
+
+.mapa{
+   border: 10px solid;
+   border-color: rgb(112, 69, 56);
+   margin-left: 33%;
+   margin-top: 50px;
+   border-radius: 10px;
+   background-color: rgb(112, 69, 56);
+   box-shadow: 5px 5px rgba(44, 44, 44, 0.473);
+}
+
+.dois{
+   margin-top: 60px;
+}
+
+form{
+   border:  10px solid seagreen;
+   margin-top: 100px;
+   margin-left: 500px;
+   margin-right: 500px;
+}
+
+input [type=text], select{
+padding: 5px 280px;
+margin: 20px 10px 10px 10px;
+font-size: x-large;
+}
